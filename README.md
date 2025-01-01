@@ -1,3 +1,22 @@
+Image Vortex is a web application designed to generate and manipulate images based on user prompts. It leverages modern web technologies to provide a seamless user experience.
+
+Note- Please put in your Stability AI API Key to create Images
+
+Features-
+Generate images based on user-defined prompts.
+User-friendly interface for easy interaction.
+Loading indicators to enhance user experience.
+Error handling to manage issues during image generation.
+
+Technologies Used-
+React
+JavaScript
+CSS
+Node.js
+Git
+
+Feel free to clone the repo, just remember to put your own stable diffusion API Key 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
